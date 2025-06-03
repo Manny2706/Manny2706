@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manny2706
+- 👋 Hi, I’m Mayank Gupta 
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning FRONTEND
 - 💞️ I’m looking to collaborate on PROJECT
