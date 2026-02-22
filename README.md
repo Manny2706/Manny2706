@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Mayank Gupta<br><br>🚀 Passionate developer focused on building scalable web applications and solving real-world problems.<br><br>💻 Tech Stack:<br>- Backend: Django, Django REST Framework<br>- Frontend: React,Next.js<br>- DevOps: Docker, Cloudflare, Redis<br>- Payments & Integrations: Razorpay<br>- App dev-ReactNative<br><br>📌 Currently:<br>- Building and deploying production-ready backend systems<br>- Exploring system design and scalable architectures<br><br>🎯 Goals:<br>- GSoC aspirant 🚀)<br>- Build impactful tech products<br><br>📫 Let's connect and collaborate!
+## 👋 Hi, I'm Mayank Gupta<br><br>🚀 Passionate developer focused on building scalable web applications and solving real-world problems.<br><br>💻 Tech Stack:<br>- Backend: Django, Django REST Framework<br>- Frontend: React,Next.js<br>- DevOps: Docker, Cloudflare, Redis<br>- Payments & Integrations: Razorpay<br>- App dev-ReactNative<br><br>📌 Currently:<br>- Building and deploying production-ready backend systems<br>- Exploring system design and scalable architectures<br><br>🎯 Goals:<br>- Open Source Contributor<br>- Build impactful tech products<br><br>📫 Let's connect and collaborate!
 
 
 ## 🌐 Socials:
