@@ -9,7 +9,12 @@ I enjoy designing REST APIs, integrating AI services, optimizing backend perform
 - Notification automation with Flutter and Firebase
 - Full-stack applications using Next.js and React
 - Learning System Design and Cloud Deployment
+##  Open To
 
+- Backend Developer Internships
+- Full Stack Developer Internships
+- AI/ML Projects
+- Open Source Collaboration
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_manny2706) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-gupta-869a94327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankgupta270606@gmail.com) 
 
