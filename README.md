@@ -1,6 +1,14 @@
-# 💫 About Me:
-## 👋 Hi, I'm Mayank Gupta<br><br>🚀 Passionate developer focused on building scalable web applications and solving real-world problems.<br><br>💻 Tech Stack:<br>- Backend: Django, Django REST Framework,FastApi , Node.js , Flask <br>- Frontend: React,Next.js<br>- DevOps: Docker, Cloudflare, Redis<br>- Payments & Integrations: Razorpay<br>- App dev-ReactNative<br><br>📌 Currently:<br>- Building and deploying production-ready backend systems<br>- Exploring system design and scalable architectures<br><br>🎯 Goals:<br>- Open Source Contributor<br>- Build impactful tech products<br><br>📫 Let's connect and collaborate!
+## Hi, I'm Mayank Gupta
 
+Full Stack Developer passionate about building scalable backend systems, AI-powered applications, and modern web experiences.
+
+I enjoy designing REST APIs, integrating AI services, optimizing backend performance, and deploying production-ready applications.
+## Currently Working On
+
+- AI-powered backend systems using Django & FastAPI
+- Notification automation with Flutter and Firebase
+- Full-stack applications using Next.js and React
+- Learning System Design and Cloud Deployment
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_manny2706) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-gupta-869a94327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankgupta270606@gmail.com) 
